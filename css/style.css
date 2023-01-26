@@ -113,3 +113,11 @@ main {
 .numbers-info p{
   font-size: .8rem;
 }
+
+.attribution {
+  margin-top: 5rem;
+}
+
+.attribution p {
+  color: var(--Very-dark-desaturated-blue);
+}
